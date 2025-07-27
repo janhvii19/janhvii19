@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF;">Janhvi Gupta</span> 👩‍💻</h1>
 
 <p align="center">
-  <strong>💡 Fullstack Web Developer</strong> • <em>React Enthusiast</em> • <strong>Code Explorer</strong>
+  <strong>💡 Fullstack Web Developer</strong>  • <strong>Code Explorer</strong>
 </p>
 
 <p align="center">

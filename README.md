@@ -1,6 +1,12 @@
-<h1 align="center">👋 Hey, I'm Janhvi — aka CodeCrafter 👩‍💻</h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF;">Janhvi Gupta</span> 👩‍💻</h1>
 
-<h3 align="center">🚀 Fullstack Developer | ⚛️ React Enthusiast</h3>
+<p align="center">
+  <strong>💡 Fullstack Web Developer</strong> • <em>React Enthusiast</em> • <strong>Code Explorer</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+love+to+create+real-world+projects!;Learning+never+stops!;Code.+Build.+Repeat." alt="Typing SVG" />
+</p>
 
 ---
 
